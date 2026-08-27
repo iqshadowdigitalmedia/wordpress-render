@@ -83,7 +83,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'My Site',
+        title: 'Rajas Green Agro',
         logo: {
           alt: 'My Site Logo',
           src: 'img/logo.svg',

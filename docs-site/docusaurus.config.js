@@ -85,8 +85,8 @@ const config = {
       navbar: {
         title: 'Rajas Green Agro',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          alt: 'Rajas Green Agro Logo',
+          src: 'img/Untitled - August 22, 2026 at 18.49.50.png',
         },
         items: [
           {

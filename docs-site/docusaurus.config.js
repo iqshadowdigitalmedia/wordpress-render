@@ -83,7 +83,7 @@ const config = {
         respectPrefersColorScheme: true,
       },
       navbar: {
-        title: 'Rajas Green Agro',
+        title: '',
         logo: {
           alt: 'Rajas Green Agro Logo',
           src: 'img/Untitled - August 22, 2026 at 18.49.50.png',
